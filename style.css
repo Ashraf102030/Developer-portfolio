@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lobster', cursive;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif
+}
+h1{
+    font-size: 30px;
+}
+    .darkblue-color{
+        color: darkblue;
+}
+section{
+    display: flex;
+    padding-left: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, Tomato);
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
